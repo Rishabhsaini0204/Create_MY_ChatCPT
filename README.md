@@ -45,6 +45,9 @@ To use the application, follow these steps:
 
 Contributions
 
+Website: https://updategadh.com/chatcpt/create-a-chatbot-with-openai-chatgpt/
+
+
 We welcome contributions to this repository. If you have any improvements or suggestions, please feel free to create a pull request.
 
 Note:
